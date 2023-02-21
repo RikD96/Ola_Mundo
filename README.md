@@ -4,4 +4,4 @@
  
 Repositorio criado durante uma aula ao vivo!
 
-Esa linha eu adcionei diretamente no site! QUE IMPRESSIONANTE!
+Essa linha eu adcionei diretamente no site! QUE IMPRESSIONANTE!
